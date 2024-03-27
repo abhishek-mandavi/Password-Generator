@@ -1,4 +1,4 @@
-#Password Generator:-
+# Password Generator:-
 Approach-
 The application employs the 'passwordgenerator' function to generate random passwords. 
 This function operates by iterating through chosen character sets, tailoring the password to user preferences. 
